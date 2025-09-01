@@ -1,0 +1,835 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.box1 {
+    background-color: rgb(92, 131, 116);
+    color: white;
+    height: 30px;
+}
+
+.logo1 {
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    margin-left: 3.5rem;
+    margin-top: 8px;
+}
+
+.numbers {
+    margin-left: 5rem;
+    margin-top: 8px;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.facebook {
+    height: 24px;
+    width: 27px;
+    margin-left: 70rem;
+    margin-top: 2px;
+    position: absolute;
+}
+
+.twitter {
+    height: 24px;
+    width: 29px;
+    margin-top: 4px;
+    position: absolute;
+    margin-left: 71.8rem;
+}
+
+.youtube {
+    height: 31px;
+    width: 29px;
+    margin-top: 0px;
+    margin-left: 74rem;
+    position: absolute;
+}
+
+.box2 {
+    height: 6rem;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.rational {
+    height: 73px;
+    width: 74px;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 2rem;
+}
+
+.thepbn {
+    position: absolute;
+    font-family: "Cookie", cursive;
+    font-weight: 100;
+    font-style: normal;
+    margin-left: 7rem;
+    margin-top: 1rem;
+}
+
+.theemp {
+    position: absolute;
+    font-family: "Cookie", cursive;
+    font-weight: 100;
+    font-style: normal;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    font-size: large;
+}
+
+.coun {
+    position: absolute;
+    font-family: "Cookie", cursive;
+    font-weight: 100;
+    font-style: normal;
+    margin-left: 7rem;
+    margin-top: 3rem;
+    font-size: large;
+
+}
+
+.degree {
+    height: 77px;
+    width: 105px;
+    margin-left: 45rem;
+    margin-top: 15px;
+    position: absolute;
+}
+
+
+.aquality {
+    margin-left: 52rem;
+    margin-top: 40px;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box3 {
+    height: 30px;
+    background-color: rgb(92, 131, 116);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.home {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 4px;
+    margin-left: 90px;
+    position: absolute;
+}
+
+.about {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 13rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.blog {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 23rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.cources {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 31rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.gallery {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 40rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.affilation {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 49rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.forum {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 60rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.contact {
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 68rem;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.uni {
+    height: 35rem;
+    width: 84rem;
+}
+
+.box4 {
+    height: 20px;
+    width: 100%;
+    background-color: rgb(92, 131, 116);
+    color: black;
+    text-align: center;
+    margin-top: -1rem;
+    position: absolute;
+}
+
+.box5 {
+    height: 28rem;
+    width: 14rem;
+    background-color: rgb(92, 131, 116);
+    margin-top: 5rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+
+.marque {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+
+}
+
+.enquirybox {
+    background-color: whitesmoke;
+    position: absolute;
+    height: 25.5rem;
+    width: 200px;
+    margin-left: 11px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+.enquiry {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 15px;
+    margin-left: 38px;
+}
+
+.name {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: bolder;
+
+
+}
+
+.name1 {
+    margin-left: 20px;
+    height: 30px;
+    border: whitesmoke;
+
+}
+
+.last {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.last1 {
+    margin-left: 20px;
+    height: 30px;
+    border: whitesmoke;
+}
+
+.email {
+    margin-left: 20px;
+}
+
+.email1 {
+    margin-left: 20px;
+    height: 30px;
+    border: whitesmoke;
+}
+
+
+.country {
+    margin-left: 20px;
+}
+
+.country1 {
+    margin-left: 20px;
+    height: 30px;
+    border: whitesmoke;
+}
+
+.check {
+    margin-left: 25px;
+    height: 20px;
+    width: 20px;
+    margin-top: 15px;
+    position: absolute;
+}
+
+.button {
+    background-color: rgb(0, 89, 255);
+    color: white;
+    height: 35px;
+    width: 80px;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.box6 {
+    height: 30rem;
+    width: 45rem;
+    position: absolute;
+    margin-left: 20rem;
+    margin-top: 5rem;
+}
+
+.welcome {
+    text-align: center;
+    font-family: "Imperial Script", cursive;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 30px;
+
+}
+
+.para {
+    font-style: oblique;
+    text-align: start;
+}
+
+.readmore {
+    margin-top: 1rem;
+    margin-left: 20rem;
+    position: absolute;
+}
+
+.second {
+    height: 2rem;
+    width: 15rem;
+    font-size: larger;
+    margin-top: 2rem;
+
+    font-weight: bolder;
+    position: absolute;
+}
+
+.senior {
+    height: 2rem;
+    width: 17rem;
+    margin-left: 22rem;
+    margin-top: 2rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.skill {
+    height: 2rem;
+    width: 15rem;
+    font-size: larger;
+    margin-top: 2rem;
+    font-weight: bolder;
+    position: absolute;
+}
+
+.fee {
+    height: 2rem;
+    width: 15rem;
+    font-size: larger;
+    margin-top: 2rem;
+    margin-left: 22rem;
+    font-weight: bolder;
+}
+
+.box7 {
+    background-color: whitesmoke;
+    height: 20rem;
+    width: 13rem;
+    margin-left: 65rem;
+    margin-top: 5.5rem;
+}
+
+:hover.box7 {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.quick {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    width: 10rem;
+    height: 2rem;
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+.admit {
+    background-color: blue;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+.enroll {
+    background-color: blue;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.student {
+    background-color: blue;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.study {
+    background-color: blue;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.download {
+    background-color: blue;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.news {
+    background-color: blue;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.box8 {
+    background-color: whitesmoke;
+    height: 20rem;
+    width: 100%;
+    border: solid black;
+    margin-top: 8rem;
+
+}
+
+.our {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 36rem;
+    margin-top: 1rem;
+    font-size: x-large;
+}
+
+.degree1 {
+    height: 4.5rem;
+    width: 5rem;
+    background-color: blue;
+    margin-left: 20rem;
+    margin-top: 2rem;
+    border-radius: 40px;
+    position: absolute;
+}
+
+.dcap1 {
+    margin-left: -1rem;
+    margin-top: -1.5rem;
+    height: 7rem;
+    width: 6.6rem;
+}
+
+.degree2 {
+    height: 4.5rem;
+    width: 5rem;
+    background-color: blue;
+    margin-left: 40rem;
+    margin-top: 2rem;
+    border-radius: 40px;
+    position: absolute;
+}
+
+.dcap2 {
+    margin-left: -1rem;
+    margin-top: -1.5rem;
+    height: 7rem;
+    width: 6.6rem;
+}
+
+.degree3 {
+    height: 4.5rem;
+    width: 5rem;
+    background-color: blue;
+    margin-left: 60rem;
+    margin-top: 2rem;
+    border-radius: 40px;
+}
+
+.dcap3 {
+    margin-left: -1rem;
+    margin-top: -1.5rem;
+    height: 7rem;
+    width: 6.6rem;
+}
+
+.prog1 {
+    width: 30rem;
+    margin-left: 5.5rem;
+    text-align: center;
+    height: 7rem;
+    position: absolute;
+}
+
+.second1 {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+
+.second2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 4rem;
+}
+
+.prog2 {
+    width: 30rem;
+    margin-left: 25.5rem;
+    text-align: center;
+    height: 7rem;
+    position: absolute;
+}
+
+.second3 {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    margin-top: 1rem;
+    margin-left: 4rem;
+
+}
+
+.second4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 4rem;
+}
+
+.prog3 {
+    width: 30rem;
+    margin-left: 45.5rem;
+    text-align: center;
+    height: 7rem;
+}
+
+.second5 {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    margin-top: 1rem;
+    margin-left: 4rem;
+    width: 20rem;
+}
+
+.second6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 4rem;
+}
+
+.box9 {
+    height: 20rem;
+    width: 100%;
+    position: absolute;
+}
+
+.admission {
+    margin-top: 1rem;
+    margin-left: 33rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pbn {
+    text-align: center;
+}
+
+.block1 {
+    height: 9rem;
+    width: 10rem;
+    margin-top: 3rem;
+    margin-left: 23rem;
+    text-align: center;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px,
+        rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px,
+        rgb(255, 85, 85) 0px 0px 0px 15px;
+    position: absolute;
+}
+
+.blocktext {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.block2 {
+    height: 9rem;
+    width: 10rem;
+    margin-top: 3rem;
+    margin-left: 50rem;
+    text-align: center;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px,
+        rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px,
+        rgb(255, 85, 85) 0px 0px 0px 15px;
+    position: absolute;
+}
+
+.blocktext2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.vocational {
+    text-align: center;
+    margin-top: 15rem;
+}
+
+.read {
+    margin-top: 2rem;
+    position: absolute;
+    margin-left: 38rem;
+}
+
+
+.box10 {
+    background-color: whitesmoke;
+    border: solid black;
+    height: 17rem;
+    width: 100%;
+    position: absolute;
+    margin-top: 30rem;
+}
+
+.equi {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    margin-top: 1rem;
+    margin-left: 28rem;
+    position: absolute;
+}
+
+.hr {
+    height: 1rem;
+    width: 35rem;
+    margin-left: 12rem;
+    margin-top: 4rem;
+}
+
+.points {
+    margin-top: 2rem;
+    margin-left: 10rem;
+    font-size: large;
+}
+
+.read1 {
+    margin-left: 38rem;
+    margin-top: 2rem;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box11 {
+    background-color: blue;
+    height: 20rem;
+    width: 100%;
+    margin-top: 47rem;
+}
+
+.box11 {
+    background-color: rgb(38, 102, 127);
+    height: 25rem;
+    width: 100%;
+    margin-top: 50rem;
+}
+
+.get {
+    position: absolute;
+    height: 15rem;
+    width: 22rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.file {
+    height: 44px;
+    width: 43px;
+    position: absolute;
+}
+
+.thepbn1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 45px;
+    color: white
+}
+
+.homelogo {
+    height: 30px;
+    width: 31px;
+    margin-top: 50px;
+    margin-left: 6px;
+    position: absolute;
+}
+
+.address1 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 45px;
+    color: white;
+
+}
+
+.atthe {
+    height: 54px;
+    width: 34px;
+    margin-top: 81px;
+    margin-left: 6px;
+    position: absolute;
+}
+
+.mailid {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 45px;
+    color: white;
+
+
+}
+
+.calllogo {
+    height: 29px;
+    width: 25px;
+    margin-top: 132px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.number {
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 45px;
+    color: white;
+}
+
+.worldlogo {
+    height: 53px;
+    width: 56px;
+    margin-top: 162px;
+    margin-left: -5px;
+    position: absolute;
+}
+
+.world {
+    position: absolute;
+    margin-top: 177px;
+    margin-left: 45px;
+    color: white;
+}
+
+.quicklink {
+    height: 15rem;
+    width: 10rem;
+    margin-left: 25rem;
+    margin-top: 2rem;
+    color: white;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.color {
+    color: white;
+}
+
+.ourprog {
+    height: 15rem;
+    width: 15rem;
+    margin-left: 40rem;
+    margin-top: 2rem;
+    color: white;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.flogo{
+        border-radius: 10px;
+    height: 33px;
+    width: 31px;
+    margin-top: 17rem;
+    margin-left: 5rem
+}
+.ilogo{
+ border-radius: 10px;
+    height: 31px;
+    width: 31px;
+    margin-top: 17rem;
+}
+.tlogo{
+ border-radius: 10px;
+    height: 31px;
+    width: 31px;
+    margin-top: 17rem;
+}
+.ylogo{
+ border-radius: 10px;
+    height: 31px;
+    width: 31px;
+    margin-top: 17rem;
+}
